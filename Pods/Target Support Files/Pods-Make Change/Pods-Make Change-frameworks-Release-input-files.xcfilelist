@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Make Change/Pods-Make Change-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/AlamofireImage/AlamofireImage.framework
+${BUILT_PRODUCTS_DIR}/Stripe/Stripe.framework

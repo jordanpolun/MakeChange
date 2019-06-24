@@ -1,0 +1,6 @@
+framework module Pods_Make_ChangeTests {
+  umbrella header "Pods-Make ChangeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

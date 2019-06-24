@@ -1,0 +1,6 @@
+framework module Pods_Make_ChangeUITests {
+  umbrella header "Pods-Make ChangeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
