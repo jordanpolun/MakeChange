@@ -1,4 +1,5 @@
 GEM
+  remote: https://rubygems.org/
   specs:
     connection_pool (2.2.2)
     faraday (0.15.4)
@@ -30,4 +31,4 @@ DEPENDENCIES
   stripe
 
 BUNDLED WITH
-   1.15.2
+   2.0.2
